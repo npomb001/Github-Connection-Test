@@ -1,6 +1,5 @@
 # Hello-World
-Just another repository
 
-(o_o)
+Test Repo
 
-Update 10/4/17
+Update 10/6/17 from Biocluster UCR
