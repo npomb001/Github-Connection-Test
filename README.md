@@ -1,5 +1,8 @@
-# Hello-World
+# Github-Connection-Test
 
-Test Repo
+This repo is creadted for github connection test.
 
-Update 10/12/18 from MacAir
+- [x] :lock: MacAir 10/12/18
+- [x] :lock: MacAir/GoogleDriveFileStream 10/13/18
+
+Last updated  on 10/13/18
